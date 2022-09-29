@@ -99,7 +99,7 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 600px;
+    max-width: 750px;
     margin: 0 auto;
     text-align: center;
 }
@@ -115,6 +115,8 @@ nav {
 
 .about-me__picture {
     width: 100%;
+    transform: scale(2.8);
+    padding-bottom: 30px;
 }
 
 .about-me__info--title {
@@ -125,3 +127,12 @@ nav {
     font-size: 20px;
     margin-bottom: 28px;
 }
+
+.about-me__link {
+    font-size: 24px;
+    color: #242424;
+    text-decoration: none;
+    padding: 0 16px;
+
+}
+
