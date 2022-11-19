@@ -83,7 +83,7 @@ li {
 }
 
 .text--purple {
-    color: #6030b1;
+    color: #40a829;
 }
 
 .section__title {
@@ -115,7 +115,7 @@ nav {
 }
 
 .nav__link--anchor-primary{
-    background-color: #6030b1;
+    background-color: #40a829;
     padding: 8px 20px;
     border-radius: 50px;
     color: white;
@@ -123,12 +123,12 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-    background-color: #5d3eff;
+    background-color: #006241;
 }
 
 .personal__logo {
     font-size: 24px;
-    color: #6030b1;
+    color: #40a829;
     margin: 0 12px;
     font-weight: bold ;
 }
@@ -378,7 +378,7 @@ nav {
 .project__description--link {
     font-size: 20px;
     margin-right: 16px;
-    color: black
+    color: white;
 }
 
 .project__description--title,
